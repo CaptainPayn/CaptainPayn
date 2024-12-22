@@ -6,7 +6,7 @@ Programmer
 
 Currently in college for cyber security
 
-* 🌍  I'm based in Boston
+* 🌍  I'm based in Mass
 * ✉️  You can contact me at [philipaurous@gmail.com](mailto:philipaurous@gmail.com)
 * 🧠  I'm learning python and unix
 
